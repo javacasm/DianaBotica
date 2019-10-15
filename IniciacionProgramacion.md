@@ -68,4 +68,4 @@ Code.org
 
 ## Ejemplos
 
-[Retos para secundaria](http://www.aprendeprogramando.es/challenges)
+[Retos para secundaria](https://www.programoergosum.com/cursos-online/scratch/105-juego-del-laberinto-programado-con-scratch/retos-de-scratch)
