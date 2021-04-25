@@ -67,11 +67,11 @@ EJEMPLO: Control de iluminación digital y analógico
 
 [Control de iluminación II](https://makecode.microbit.org/_7ayKTtKvXFcc)
 
-![ControlIluminacionII](../images/ControlIluminacionII.png)
+![Control Iluminación II](../images/ControlIluminacionII.png)
 
-[ControlIluminacion III](https://makecode.microbit.org/_TVJAFy9mjJ3Y)
+[Control de Iluminación III](https://makecode.microbit.org/_TVJAFy9mjJ3Y)
 
-![ControlIluminacion2](../images/ControlIluminacionIII.png)
+![Control de Iluminación 2](../images/ControlIluminacionIII.png)
 
 ## Eventos
 
